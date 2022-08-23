@@ -166,7 +166,7 @@ gradle-app.setting
 .gradletasknamecache
 
 # Eclipse Gradle plugin generated files
-# Eclipse Core
+# Eclipse Core째
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
